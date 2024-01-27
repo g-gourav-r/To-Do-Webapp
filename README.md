@@ -1,1 +1,3 @@
-![Alt text](image.png)
+Screenshot of latest update
+
+![Login Page](image.png)
